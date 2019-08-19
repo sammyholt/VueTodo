@@ -1,4 +1,6 @@
-# vue_crash_todolist
+# Vue Todo
+
+Simple Todo List created using Vue.js
 
 ## Project setup
 ```
@@ -24,6 +26,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
